@@ -1,0 +1,4 @@
+https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/
+https://betterexplained.com/articles/developing-your-intuition-for-math/
+https://betterexplained.com/articles/intuitive-understanding-of-eulers-formula/
+https://www.khanacademy.org/computing
